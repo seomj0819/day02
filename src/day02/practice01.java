@@ -1,6 +1,6 @@
 package day02;
 
-public class practice {
+public class practice01 {
 	public static void main(String[] args) {
 		String name = "김말이";
 		short age = 20;
